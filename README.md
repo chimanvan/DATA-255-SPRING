@@ -1,3 +1,5 @@
+3/23/2024
+1. Added homework 6 and 7 files
 3/4/2024
 1. Submitted 4 new files, Vani_Kancherlapalli_Homework5_LSGAN_300.ipynb; Vani_Kancherlapalli_Homework5_LSGAN.ipynb; Vani_Kancherlapalli_Homework5_GAN_300.ipynb;Vani_Kancherlapalli_Homework5_GAN.ipynb
 2/25/2024
