@@ -1,3 +1,5 @@
+4/8/2024
+1. Added two files related to homework 8. The notebook file and the csv file.
 3/23/2024
 1. Added homework 6 and 7 files
 3/4/2024
