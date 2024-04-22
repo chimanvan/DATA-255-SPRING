@@ -1,3 +1,7 @@
+4/22/2024
+1. Added files realated to homework10. Also, added the demo homework file.
+4/15/2024
+1. Added file relates to homework 9.
 4/8/2024
 1. Added two files related to homework 8. The notebook file and the csv file.
 3/23/2024
